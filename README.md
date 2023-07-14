@@ -1,7 +1,7 @@
 # Hi :wave:, I am Anthony
 
 ![](https://komarev.com/ghpvc/?username=kingychiu)
-
+[![kingychiu](https://road-to-kaggle-grandmaster.vercel.app/api/simple/kingychiu)](https://kaggle.com/kingychiu/)
 
 **Work Experience**
 | Company                                                            | Role              | Period    |
