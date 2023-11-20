@@ -6,6 +6,6 @@
 **Work Experience**
 | Company                                                            | Role              | Period    |
 | -------------------------------------------------------------------| ----------------- |-----------|
-| [TalentLabs](https://www.talentlabs.org/) :computer:           | Engineering       |2022 - now |
+| [TalentLabs](https://www.talentlabs.org/) :computer: [TechJobAsia](https://www.techjobasia.com/)           | Engineering       |2022 - now |
 | [CloverHealth](https://www.cloverhealth.com/en/) :four_leaf_clover:| Software Engineer |2020 - 2022|
 | [Weava](https://www.weavatools.com/) :crayon:                      | Co-founder        |2016 - 2019|
