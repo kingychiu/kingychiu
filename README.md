@@ -1,7 +1,7 @@
 # Hi :wave:, I am Anthony
 
 ![](https://komarev.com/ghpvc/?username=kingychiu)
-![](./kaggle-badges/CompetitionsRank/flat-square-black.svg)
+[![](./kaggle-badges/CompetitionsRank/flat-square-black.svg)](https://www.kaggle.com/kingychiu)
 
 **Work Experience**
 | Company                                                            | Role              | Period    |
