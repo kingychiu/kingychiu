@@ -1,4 +1,5 @@
 // https://stackoverflow.com/questions/77779601/puppeteer-could-not-find-chrome-ver-119-0-6045-105-error
+// https://github.com/puppeteer/puppeteer/issues/10388
 const { join } = require("path");
 
 /**
