@@ -24,6 +24,12 @@ jobs:
 
       - name: Install Puppeteer browser
         run: npx puppeteer browsers install chrome
+      
+      - name: Cache Puppeteer
+        uses: actions/cache@v4
+        with:
+          key: puppeteer
+          path: ~/.cache/puppeteer
 
       - name: Use Kaggle Badges Action
         uses: spider-man-tm/kaggle-badges@v1.2.6
